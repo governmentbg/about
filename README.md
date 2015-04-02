@@ -1,5 +1,7 @@
 # Относно организацията
 
+_([For English, click here.](README.en.md))_
+
 [**www.government.bg** – Министерски съвет на Република България](http://www.government.bg/)
 
 [![Герб на Република България](http://www.identity.egov.bg/wps/wcm/connect/a07a0f00408be695a02ef8aa39344ac1/1/Gerb_4colors_new.jpg?MOD=AJPERES&CACHEID=a07a0f00408be695a02ef8aa39344ac1/1)](http://www.government.bg/)
