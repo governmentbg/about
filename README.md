@@ -1,6 +1,6 @@
 # Относно организацията
 
-_([For English, click here.](README.en.md))_
+_[(English version)](README.en.md)_
 
 [**www.government.bg** – Министерски съвет на Република България](http://www.government.bg/)
 
