@@ -16,9 +16,8 @@ _[(English version)](README.en.md)_
 
 Лица за контакт:
 
-Радослав Миланов, имейл: rmilanov@government.bg; 
-
-Павел Иванов, имейл: p.ivanov@government.bg  
+- Радослав Миланов, имейл: rmilanov@government.bg
+- Павел Иванов, имейл: p.ivanov@government.bg
 
 ## Принос към проектите
 
