@@ -15,7 +15,7 @@ If you represent the central or local administration, you can request the creati
 Contact persons:
 
 - Radoslav Milanov, e-mail: rmilanov@government.bg
-- Pavel Ivanov, имейл: p.ivanov@government.bg
+- Pavel Ivanov, e-mail: p.ivanov@government.bg
 
 ## Contributing to projects
 
