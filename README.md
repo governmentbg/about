@@ -4,7 +4,7 @@ _[(English version)](README.en.md)_
 
 [**www.government.bg** – Министерски съвет на Република България](http://www.government.bg/)
 
-[![Герб на Република България](http://www.identity.egov.bg/wps/wcm/connect/a07a0f00408be695a02ef8aa39344ac1/1/Gerb_4colors_new.jpg?MOD=AJPERES&CACHEID=a07a0f00408be695a02ef8aa39344ac1/1)](http://www.government.bg/)
+[![Герб на Република България](http://identity.egov.bg/wps/wcm/connect/identity.egov.bg14599/2dfc622a-1365-4b4d-9928-68746f02b477/gerb1.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_HQ8A1O82KGRF10AROJ2UN103G1-2dfc622a-1365-4b4d-9928-68746f02b477-lQRYJAE)](http://www.government.bg/)
 
 Организацията [github.com/governmentbg](https://github.com/governmentbg) е официална и се поддържа от Администрацията на [Министерския съвет на Република България](http://www.government.bg/). Тук се публикува кодът на проекти, финансирани с публични средства.
 
