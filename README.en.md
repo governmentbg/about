@@ -14,8 +14,8 @@ If you represent the central or local administration, you can request the creati
 
 Contact persons:
 
-- Radoslav Milanov, e-mail: rmilanov@government.bg
-- Pavel Ivanov, e-mail: p.ivanov@government.bg
+- Boris Radev, e-mail: bradev@e-gov.bg
+- Illia Smolenov, e-mail: ismolenov@e-gov.bg
 
 ## Contributing to projects
 
