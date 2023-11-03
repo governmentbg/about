@@ -4,7 +4,7 @@
 
 [![Coat of Arms of Republic of Bulgaria](http://identity.egov.bg/wps/wcm/connect/identity.egov.bg14599/2dfc622a-1365-4b4d-9928-68746f02b477/gerb1.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_HQ8A1O82KGRF10AROJ2UN103G1-2dfc622a-1365-4b4d-9928-68746f02b477-lQRYJAE)](http://www.government.bg/)
 
-The [github.com/governmentbg](https://github.com/governmentbg) organization is officially created by the Administration of [the Council of Ministers of the Republic of Bulgaria](http://www.government.bg/fce/index.shtml?s=001&p=0023) and administered by the [State e-Government Agency](https://e-gov.bg/). The source code of government-commissioned projects is published here.
+The [github.com/governmentbg](https://github.com/governmentbg) organization is officially created by the Administration of [the Council of Ministers of the Republic of Bulgaria](http://www.government.bg/fce/index.shtml?s=001&p=0023) and administered by the [Ministry of eGovernment](https://egov.government.bg/). Also, consider visiting the official website of the [Electronic Governance Infrastructure Executive Agency](https://iaieu.egov.bg/). The source code of government-commissioned projects is published here.
 
 This initiative is part of the  global efforts, aimed at promoting open and transparent governance, which will provide citizens and businesses with more effective tools that allow them to actively participate in the process of government policy design, implementation and monitoring. 
 
