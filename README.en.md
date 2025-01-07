@@ -11,8 +11,8 @@ If you represent the central or local administration, you can request the creati
 Contact persons:
 
 - Illia Smolenov, e-mail: I.Smolenov@egov.government.bg
-- Ilonka Hristova, email: I.Hristova@egov.government.bg
-- Boris Radev, e-mail: bradev@e-gov.bg
+- Nikolay Nedyalkov, email: nnedyalkov@e-gov.bg
+- Nadelin Antonov, e-mail: nsantonov@e-gov.bg
 
 ## Contributing to projects
 
