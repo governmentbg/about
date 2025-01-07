@@ -30,9 +30,9 @@ _[(English version)](README.en.md)_
 
 Лица за контакт:
 
-- Илонка Христова, имейл: I.Hristova@egov.government.bg
+- Николай Недялков, имейл: nnedyalkov@e-gov.bg
 - Илия Смоленов, имейл: I.Smolenov@egov.government.bg
-- Борис Радев, имейл: bradev@e-gov.bg
+- Наделин Антонов, имейл: nsantonov@e-gov.bg
 
 ## Принос към проектите
 
